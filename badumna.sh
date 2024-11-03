@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 
+clear
 confirmed_code="NSBE50"
 confirmation_message="Congratulations.... you've cracked the clues. The final key is attached to the soldering iron stand, taped underneath the silver tray; You must lift it up. Use it to open the lockbox and escape. When you do, come and find me in Nairobi if you wish to join my mission to take down those who wish to keep us under their thumb. The road ahead won't be easy, but clearly you all are capable. But I myself will determine if you are worthy."
 
